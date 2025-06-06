@@ -1,10 +1,10 @@
 # VOC2007 From Scratch R-CNN Implementation
 
-## 🎯 **프로젝트 개요**
+## **프로젝트 개요**
 
 이 프로젝트는 **PASCAL VOC 2007 데이터셋**을 이용하여 **완전한 From Scratch R-CNN**을 구현한 프로젝트입니다. Transfer Learning 없이 처음부터 학습하여 객체 검출의 기본 원리를 이해하고, 실제 머신러닝 프로젝트에서 발생하는 편향 문제를 해결합니다.
 
-## 🏗️ **프로젝트 구조**
+##  **프로젝트 구조**
 
 ```
 rcnn_implementation/
