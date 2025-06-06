@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch Models (대용량 파일)
+*.pth
+*.pt
+*.pkl
+*.bin
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+training.log
+optimization_training.log
+
+# Large result files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Cache
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Data files (optional - uncomment if data is too large)
+# VOCdevkit/
+# *.tar
+# *.gz
+# *.zip
+
+# Model checkpoints and results
+models/*.pth
+models/*.pt
+checkpoint_*.pth
+best_model_*.pth
+final_*.pth
+completely_*.pth
+test_model_*.pth
+improved_*.pth
+fixed_*.pth
+evaluation_results.txt
+
+# Generated visualization files
+final_results/visualization/*.png
+final_results/visualization/*.jpg
+*.png
+*.jpg
+
+# JSON result files (large)
+*_results.json
+*_report.txt 
