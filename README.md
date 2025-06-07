@@ -66,14 +66,7 @@ python create_visual_prediction_results.py
 - **정규화**: ImageNet 평균/표준편차
 - **영역 제안**: Selective Search 알고리즘
 - **클래스 균형**: 가중치 기반 샘플링
-
-### **Transfer Learning과의 비교**
-| 접근법 | 정확도 |
-|--------|--------|------|
-| **From Scratch** | 17.30% |
-| **Transfer Learning** | 38.83% |
-| **성능 차이** | 2.2배 |
-
+  
 ## **시각화 자료**
 
 ### **생성 가능한 시각화**
