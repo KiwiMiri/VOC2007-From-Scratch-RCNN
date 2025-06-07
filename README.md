@@ -113,7 +113,7 @@ Pillow>=8.0.0
 tqdm>=4.60.0
 ```
 
-## 📚 **참고 자료**
+## **참고 자료**
 
 ### **논문**
 - Girshick et al. "Rich feature hierarchies for accurate object detection and semantic segmentation" (R-CNN)
@@ -121,11 +121,6 @@ tqdm>=4.60.0
 
 ### **데이터셋**
 - PASCAL VOC 2007: http://host.robots.ox.ac.uk/pascal/VOC/voc2007/
-
-
-### **라이선스**
-이 프로젝트는 교육용으로 자유롭게 사용 가능합니다.
-
 ---
 **개발 기간**: 2025년 6월  
 **최종 업데이트**: 2025-06-07  
