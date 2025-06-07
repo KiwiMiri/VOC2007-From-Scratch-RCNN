@@ -68,11 +68,11 @@ python create_visual_prediction_results.py
 - **클래스 균형**: 가중치 기반 샘플링
 
 ### **Transfer Learning과의 비교**
-| 접근법 | 정확도 | 특징 |
+| 접근법 | 정확도 |
 |--------|--------|------|
-| **From Scratch** | 17.30% | 완전한 편향 해결, 교육적 가치 |
-| **Transfer Learning** | 38.83% | 높은 성능, 실무 적용성 |
-| **성능 차이** | 2.2배 | ImageNet 사전훈련의 가치 입증 |
+| **From Scratch** | 17.30% |
+| **Transfer Learning** | 38.83% |
+| **성능 차이** | 2.2배 |
 
 ## **시각화 자료**
 
