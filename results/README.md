@@ -38,15 +38,6 @@ python accurate_from_scratch_evaluation.py
 cd visualization/
 python visualize_voc_dataset.py
 ```
-
-## 📊 **결과 해석**
-
-### **From Scratch 17.30%의 의미**
-1. **교육적 완성도**: Transfer Learning 없는 순수 학습 성공
-2. **편향 해결**: 100% aeroplane 편향 → 0% 완전 해결
-3. **기술적 검증**: Xavier 초기화 + 클래스 가중치 효과 입증
-4. **현실적 성능**: Transfer Learning 대비 2.2배 차이로 현실적 한계 인식
-
 ---
 
 **생성일**: 2025-06-07  
